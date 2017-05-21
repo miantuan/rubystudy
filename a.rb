@@ -6,3 +6,4 @@ while aa.getc do
    puts aa.getc;
 
 end
+dfdfd
