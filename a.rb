@@ -1,10 +1,6 @@
+array=[10,20]
+element=30
+puts eval("array << element")
+puts eval("array << element")
+puts eval("array << element")
 
-
-aa=File.open("number.txt")
-while aa.getc do
-    aa.seek(-1，IO::SEEK_CUR)
-   puts aa.getc;
-
-end
-dfdfd
-xxxxx
